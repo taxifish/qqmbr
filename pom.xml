@@ -82,12 +82,10 @@
       <artifactId>weld-core</artifactId>
     </dependency>
     
-    <!--
     <dependency>
       <groupId>org.apache.deltaspike.cdictrl</groupId>
       <artifactId>deltaspike-cdictrl-weld</artifactId>
     </dependency>
-    -->
 
     <dependency>
       <groupId>org.slf4j</groupId>
